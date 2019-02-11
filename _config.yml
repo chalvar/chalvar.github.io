@@ -33,6 +33,7 @@ colors:
   orange:    '#fab125'
   turquoise: '#0fbfcf'
   firebrick: '#b22222'
+  purple2:   '#7F00FF
 
 kramdown:
   auto_ids:  false
