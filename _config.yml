@@ -42,4 +42,5 @@ colors:
 
 kramdown:
   auto_ids:  false
+comments: true
 
